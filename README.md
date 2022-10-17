@@ -1,5 +1,5 @@
 This product was made as a part of hacktoberfest.
 
-Team:
-Adam
+Team members:
+Adam ,
 smriti
